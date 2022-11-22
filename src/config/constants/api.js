@@ -1,0 +1,2 @@
+export const BASE_URL = "https://ptax-backend.herokuapp.com/api"
+export const TOKEN = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MzNkNWVmNWU4ZGQxNjI0OWZlZDQzMmMiLCJlbWFpbCI6InNoZWh6YWRAbWFpbC5jb20iLCJuYW1lIjoiU2hlaHphZCBBaG1lZCIsImlzQWRtaW4iOmZhbHNlLCJpYXQiOjE2NjkxMTc4NTMsImV4cCI6MTY2OTcyMjY1M30.2x7R4cgOkGyK6oxRcSQVrWQH2mRsAuconDPj6tdjrts"
